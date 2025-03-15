@@ -1,19 +1,15 @@
-## Olá, sou Carlos... 👋
+# Olá, sou Carlos. Seja muito bem vindo! 👋
 
-<!--
-**jcarlossc/jcarlossc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim:
 * Técnico em Informática - Desenvolvimento de Sistemas.
 * Graduado em Análise e Desenvolvimento de Sistemas.
-* 
+* Programado generalista junior.
+* Experiência acadêmica e em projetos pessoais (Php, Python, Javascript, Java, entre outras).
+* Experiência pessoais com computação gráfica (PhotoShop, Ginp, Inkscape, Blender, entre outros).
+* Eu tenho grande interesse por programação, prototipação eletrônica (Arduino e Esp32), computação gráfica, xadrez e literatura.
+
+<div>
+<a href="https://github.com/jcarlossc">
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
