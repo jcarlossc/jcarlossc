@@ -1,4 +1,4 @@
-# Olá, sou Carlos. Seja muito bem vindo! 👋
+# Olá, eu sou Carlos. Sejam muito bem vindos! 👋
 *Hello, I'm Carlos. Welcome!*
 
 ## Sobre mim: (*About me:*)
