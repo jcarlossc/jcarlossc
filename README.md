@@ -1,8 +1,7 @@
 # Olá, sou Carlos. Seja muito bem vindo! 👋
 *Hello, I'm Carlos. Welcome!*
 
-## Sobre mim: 
-*About me:*
+## Sobre mim: (*About me:*)
 * Técnico em Informática - Desenvolvimento de Sistemas (*Computer Technician - Systems Development*).
 * Graduado em Análise e Desenvolvimento de Sistemas (*Graduated in Systems Analysis and Development.*).
 * Programador generalista junior (*Junior generalist programmer.*).
