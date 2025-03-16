@@ -14,3 +14,34 @@
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
+## Ferramentas e Tecnologias:
+#### Sistemas Operacionais:<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="width:50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:50px" />
+#### Linguagens de Programação:     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="width:50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width:50px" />
+#### Ambientes de Desenvolvimento e Editores:
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width:40px" />
+#### Servidores: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="width:50px" />
+#### Computação Gráfica: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width:50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" style="width:50px" />
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
