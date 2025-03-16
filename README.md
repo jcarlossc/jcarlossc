@@ -5,7 +5,7 @@
 * Graduado em Análise e Desenvolvimento de Sistemas.
 * Programador generalista junior.
 * Experiência acadêmica e em projetos pessoais (Php, Python, Javascript, Java, entre outras).
-* Experiência pessoais com computação gráfica (PhotoShop, Ginp, Inkscape, Blender, entre outros).
+* Experiência pessoais com computação gráfica (PhotoShop, Gimp, Inkscape, Blender, entre outros).
 * Eu tenho grande interesse por programação, prototipação eletrônica (Arduino e Esp32), computação gráfica, xadrez e literatura.
 
 <div>
