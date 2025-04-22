@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
 ## Olá, eu me chamo Carlos da Costa. Sejam muito bem vindos! 👋
 *Hello, I'm Carlos. Welcome!*
 
