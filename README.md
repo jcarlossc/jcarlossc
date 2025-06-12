@@ -36,12 +36,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width:50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" style="width:50px" />
 
 ## CONTATOS:
-<ul style="list-style-type: none">
+<ul>
 <li>
-<abbr title="Kaggle"><a href="https://www.kaggle.com/jcarlossc" target="_blank" alt="link-kaggle">
-      <img src="icons/kaggle.svg" width="40px" alt="Kaggle"><span>Plataforma Kaggle</span>
-</a></abbr>
-</li>          
+<a href="https://www.kaggle.com/jcarlossc" target="_blank" alt="link-kaggle">
+<img src="icons/kaggle.svg" width="40px" alt="Kaggle"><span>Plataforma Kaggle</span>
+</a>
+</li>   
+<li>
+<a href="https://www.linkedin.com/in/carlos-da-costa-669252149/)" target="_blank" alt="link-Linkedin">
+<img src="icons/linkedin.png" width="40px" alt="Kaggle"><span>Plataforma LinkedIn</span>   
+</li>
 </ul>
 
 <ul>
