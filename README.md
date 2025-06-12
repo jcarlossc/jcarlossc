@@ -58,6 +58,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <a href="https://github.com/jcarlossc/curriculum/blob/main/README.md" target="_blank">
 <img src="icons/curriculo.png" width="30px" alt="link-Currículo"><span> Currículo</span>   
 </li>          
+<li>
+<a href="mailto:josecscosta@fac.pe.senac.br" target="_blank">
+<img src="icons/gmail.svg" width="30px" alt="link-Currículo"><span> josecscosta@fac.pe.senac.br</span>   
+</li>          
 </ul>
 
 
