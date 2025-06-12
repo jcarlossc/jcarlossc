@@ -39,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <ul class="text-center">
           <li class="align-menu">
             <abbr title="Kaggle"><a href="https://www.kaggle.com/jcarlossc" id="link-7" target="_blank" alt="link-kaggle">
-                <img src="/static/img/kaggle.svg" id="kaggle-svg" alt="Kaggle">
+                <img src="icons/kaggle.svg" id="kaggle-svg" alt="Kaggle">
             </a></abbr>
           </li>
           <li class="align-menu">
