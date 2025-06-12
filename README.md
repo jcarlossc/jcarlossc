@@ -39,24 +39,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <ul>
 <li>
 <a href="https://www.kaggle.com/jcarlossc" target="_blank">
-<img src="icons/kaggle.svg" width="40px" alt="link-kaggle"><span> Plataforma Kaggle</span>
+<img src="icons/kaggle.svg" width="30px" alt="link-kaggle"><span> Plataforma Kaggle</span>
 </a>
 </li>   
 <li>
 <a href="https://www.linkedin.com/in/carlos-da-costa-669252149/" target="_blank">
-<img src="icons/linkedin.png" width="40px" alt="link-LinkedIn"><span> Plataforma LinkedIn</span>   
+<img src="icons/linkedin.png" width="30px" alt="link-LinkedIn"><span> Plataforma LinkedIn</span>   
 </li>
 <li>
 <a href="https://github.com/jcarlossc/" target="_blank">
-<img src="icons/github.svg" width="40px" alt="link-gitHub"><span> Plataforma GitHub</span>   
+<img src="icons/github.svg" width="30px" alt="link-gitHub"><span> Plataforma GitHub</span>   
 </li>          
 <li>
 <a href="https://x.com/jcarlossc1977" target="_blank">
-<img src="icons/twitter.svg" width="50px" alt="link-Twitter"><span> Plataforma X</span>   
+<img src="icons/twitter.svg" width="40px" alt="link-Twitter"><span> Plataforma X</span>   
 </li>          
 <li>
 <a href="https://github.com/jcarlossc/curriculum/blob/main/README.md" target="_blank">
-<img src="icons/curriculum.png" width="50px" alt="link-Twitter"><span> Currículo</span>   
+<img src="icons/curriculum0.png" width="30px" alt="link-Currículo"><span> Currículo</span>   
 </li>          
 </ul>
 
