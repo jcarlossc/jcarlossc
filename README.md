@@ -52,7 +52,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 </li>          
 <li>
 <a href="https://x.com/jcarlossc1977" target="_blank">
-<img src="icons/twitter.png" width="50px" alt="link-Twitter"><span> Plataforma Twitter</span>   
+<img src="icons/twitter.svg" width="50px" alt="link-Twitter"><span> Plataforma X</span>   
+</li>          
+<li>
+<a href="https://github.com/jcarlossc/curriculum/blob/main/README.md" target="_blank">
+<img src="icons/curriculum.png" width="50px" alt="link-Twitter"><span> Currículo</span>   
 </li>          
 </ul>
 
