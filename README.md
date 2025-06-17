@@ -60,7 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 </li>          
 <li>
 <a href="mailto:josecscosta@fac.pe.senac.br" target="_blank">
-<img src="icons/gmail.svg" width="30px" alt="link-Currículo"><span> josecscosta@fac.pe.senac.br</span>   
+<img src="icons/gmail.svg" width="30px" alt="link-Currículo"><span> jcarlossc1977@gmail.com</span>   
 </li>          
 </ul>
 
