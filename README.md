@@ -10,12 +10,11 @@
 * Experiência pessoais com computação gráfica: PhotoShop, Gimp, Inkscape, Blender, entre outros (*Personal experience with computer graphics: PhotoShop, Gimp, Inkscape, Blender, among others*).
 * Eu tenho grande interesse por programação, prototipação eletrônica (Arduino e Esp32), computação gráfica, xadrez e literatura (*I have a great interest in programming, electronic prototyping (Arduino and Esp32), computer graphics, chess and literature.*).
 
-<a href="https://github.com/jcarlossc/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-nonentity5565.vercel.app/api?username=Nonentity5565&show_icons=true&show_all_commits=true" />
-</a>
-<a href="https://github.com/jcarlossc/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-nonentity5565.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div>
+<a href="https://github.com/jcarlossc">
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&langs_count=7&theme=nord"/> 
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/> 
+</div>
 
 ## Ferramentas, Tecnologias e Padrões:
 #### Sistemas Operacionais:<br />
