@@ -10,11 +10,9 @@
 * Experiência pessoais com computação gráfica: PhotoShop, Gimp, Inkscape, Blender, entre outros (*Personal experience with computer graphics: PhotoShop, Gimp, Inkscape, Blender, among others*).
 * Eu tenho grande interesse por programação, prototipação eletrônica (Arduino e Esp32), computação gráfica, xadrez e literatura (*I have a great interest in programming, electronic prototyping (Arduino and Esp32), computer graphics, chess and literature.*).
 
-<div>
-<a href="https://github.com/jcarlossc">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&langs_count=7&theme=darcula"/> 
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/> 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&langs_count=7&theme=darcula)](https://github.com/jcarlossc)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)](https://github.com/jcarlossc)
 
 ## Ferramentas, Tecnologias e Padrões:
 #### Sistemas Operacionais:<br />
