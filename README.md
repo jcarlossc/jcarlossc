@@ -80,7 +80,7 @@
 ## 📫 Contato
 
 - 📧 Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/jose-carlos-669252149](https://www.linkedin.com/in/jose-carlos-669252149/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/carlos-da-costa-669252149/](https://www.linkedin.com/in/carlos-da-costa-669252149/)  
 - 🐙 GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
 - 📊 Kaggle: [kaggle.com/jcarlossc](https://www.kaggle.com/jcarlossc/code)
 
