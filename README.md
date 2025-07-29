@@ -11,7 +11,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarlossc&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jcarlossc&theme=radical)
+
 
 ---
 
