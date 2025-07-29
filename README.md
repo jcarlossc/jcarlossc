@@ -1,74 +1,95 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
-## Olá, eu me chamo Carlos da Costa. Sejam muito bem vindos! 👋
-*Hello, I'm Carlos. Welcome!*
+# 👨‍💻 José Carlos Soare da Costa
 
-## Sobre mim: (*About me:*)
-* Técnico em Informática - Desenvolvimento de Sistemas (*Computer Technician - Systems Development*).
-* Graduado em Análise e Desenvolvimento de Sistemas (*Graduated in Systems Analysis and Development.*).
-* Programador Python junior (*Junior Python programmer.*).
-* Experiência acadêmica e em projetos pessoais: Python, Javascript (*Academic experience and personal projects: Python, Javascript*).
-* Experiência pessoais com computação gráfica: PhotoShop, Gimp, Inkscape, Blender, entre outros (*Personal experience with computer graphics: PhotoShop, Gimp, Inkscape, Blender, among others*).
-* Eu tenho grande interesse por programação, prototipação eletrônica (Arduino e Esp32), computação gráfica, xadrez e literatura (*I have a great interest in programming, electronic prototyping (Arduino and Esp32), computer graphics, chess and literature.*).
+🔁 **Transição de carreira** — Da área de logística e reformas para o universo da tecnologia.  
+🐍 Desenvolvedor com foco em **Python** e projetos práticos voltados para automações, APIs, interfaces gráficas e boas práticas.  
+📍 Recife, Pernambuco — Brasil
 
-| <a href="https://github.com/jcarlossc"><img src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" /></a> | <a href="https://github.com/jcarlossc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&langs_count=7&theme=darcula" /></a> |
-|---|---|
+---
 
+## 📊 GitHub Stats
 
-## Ferramentas, Tecnologias e Padrões:
-#### Sistemas Operacionais:<br />
-<abbr title="Windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="width:45px" /></abbr><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:50px" />
-#### Linguagens de Programação:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width:50px" /><span> </span><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:40px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width:50px" />
-#### Marcação e Estilo:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width:50px" /> 
-#### Ambientes de Desenvolvimento, Editores e Gerenciadores de Dependências:
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width:40px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" style="width:40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="width:50px" /><img src="icons/sublime.png" style="width:50px" />
-<img src="icons/notepad.png" style="width:40px" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarlossc&theme=radical)
 
-#### Versionamento: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:50px" /><img src="icons/github.svg" style="width:45px" />
-          
-#### Computação Gráfica: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width:50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" style="width:50px" /><span> </span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" style="width:50px" />
+---
 
-#### Padrões:
-* Programação Orientada a Objetos
-* Princípios SOLID
-* CI/CD (Integração e Entrega Contínua)
-* Design Responsivo
-* Controle de Versão (Git)
-* REST (Representational State Transfer)
-* Design Patterns
+## 🚀 Tecnologias
 
-## Contatos:
-<ul>
-<li>
-<a href="https://www.kaggle.com/jcarlossc" target="_blank">
-<img src="icons/kaggle.svg" width="30px" alt="link-kaggle"><span> Plataforma Kaggle</span>
-</a>
-</li>   
-<li>
-<a href="https://www.linkedin.com/in/carlos-da-costa-669252149/" target="_blank">
-<img src="icons/linkedin.png" width="30px" alt="link-LinkedIn"><span> Plataforma LinkedIn</span>   
-</li>
-<li>
-<a href="https://github.com/jcarlossc/" target="_blank">
-<img src="icons/github.svg" width="30px" alt="link-gitHub"><span> Plataforma GitHub</span>   
-</li>          
-<li>
-<a href="https://x.com/jcarlossc1977" target="_blank">
-<img src="icons/twitter_.svg" width="30px" alt="link-Twitter"><span> Plataforma X</span>   
-</li>          
-<li>
-<a href="https://github.com/jcarlossc/curriculum/blob/main/README.md" target="_blank">
-<img src="icons/curriculo.png" width="30px" alt="link-Currículo"><span> Currículo</span>   
-</li>          
-<li>
-<a href="mailto:josecscosta@fac.pe.senac.br" target="_blank">
-<img src="icons/gmail.svg" width="30px" alt="link-Currículo"><span> jcarlossc1977@gmail.com</span>   
-</li>          
-</ul>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 🧠 Foco principal: Python
+
+- Automação com `requests`, `os`, `smtplib`, `PyGithub`
+- APIs com `Flask` e `FastAPI`
+- Testes automatizados com `unittest` e `pytest`
+- Interfaces gráficas com `Tkinter`
+- Manipulação de dados com `pandas`
+- Validações com expressões regulares
+- Padrões de projeto (Strategy, Command, Template Method, etc.)
+- Tipagem estática com `mypy`
+- Projetos empacotados com `setup.py` e documentados para portfólio
+
+---
+
+## 📂 Projetos em destaque
+
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| 🔐 [Validador com Regex + Strategy](https://github.com/jcarlossc/validador-strategy-pattern) | Python, Regex, OOP | Valida CPF, CNPJ, IP, e-mail, URL, e mais usando padrão Strategy |
+| 🎨 [Calculadora com Tkinter + Command](https://github.com/jcarlossc/calculadora-tkinter-command) | Python, GUI, OOP | Interface gráfica com botão por botão controlado via padrão de projeto |
+| 🔗 [Gerenciador de Links com Flask](https://github.com/jcarlossc/gerenciador-links-flask) | Flask, SQLite, Bootstrap | CRUD simples com SQLite e design responsivo |
+| 🤖 [Automação com GitHub API](https://github.com/jcarlossc/github-api-automation) | Python, PyGithub | Automatiza tarefas de repositórios e issues com autenticação via token |
+
+➡️ Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
+
+---
+
+## 🏅 Certificados
+
+✅ Veja meus certificados organizados por pasta em:  
+📁 [`certificados`](https://github.com/jcarlossc/certificados)
+
+- Python, Flask, APIs
+- SQL e Banco de Dados
+- Git e GitHub
+- HTML, CSS, JavaScript
+- Linux, PHP, Java, Spring Boot
+
+---
+
+## 🌐 Portfólio Online
+
+🎯 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/jose-carlos-669252149](https://www.linkedin.com/in/jose-carlos-669252149/)  
+- 🐙 GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
+- 📊 Kaggle: [kaggle.com/jcarlossc](https://www.kaggle.com/jcarlossc/code)
+
+---
+
+## ✨ Objetivo
+
+Atuar como **desenvolvedor Python** aplicando boas práticas, automações, e soluções robustas — com visão de melhoria contínua e aprendizado constante.
+
 
 
           
