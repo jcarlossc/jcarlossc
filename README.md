@@ -1,5 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
-# 👨‍💻 José Carlos Soare da Costa
+# 👨‍💻 José Carlos Soares da Costa
 
 🔁 **Transição de carreira** — Da área de logística e reformas para o universo da tecnologia.  
 🐍 Desenvolvedor com foco em **Python** e projetos práticos voltados para automações, APIs, interfaces gráficas e boas práticas.  
