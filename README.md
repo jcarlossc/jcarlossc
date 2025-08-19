@@ -79,6 +79,9 @@
 
 ## 📫 Contato
 
+- Recife, PE - Brasil  
+- Telefone: +55 81 99712 9140<br>
+- Telegram: @jcarlossc
 - 📧 Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/carlos-da-costa-669252149/](https://www.linkedin.com/in/carlos-da-costa-669252149/)  
 - 🐙 GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
