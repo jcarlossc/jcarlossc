@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=github_dark )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=github_dark )
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## 📌 Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 Foco principal: Python
+## 📌 Foco principal: Python
 
 - Automação com `requests`, `os`, `smtplib`, `PyGithub`
 - APIs com `Flask` e `FastAPI`
@@ -45,7 +45,7 @@
 
 ---
 
-## 📂 Projetos em destaque
+## 📌 Projetos em destaque
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
@@ -58,7 +58,7 @@
 
 ---
 
-## 🏅 Certificados
+## 📌 Certificados
 
 ✅ Veja meus certificados organizados por pasta em:  
 📁 [`certificados`](https://github.com/jcarlossc/certificados)
@@ -71,25 +71,30 @@
 
 ---
 
-## 🌐 Portfólio Online
+## 📌 Portfólio Online
 
 🎯 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
 
 ---
 
-## 📫 Contato
+## 📌 Contato
 
-- Recife, PE - Brasil  
-- Telefone: +55 81 99712 9140<br>
-- Telegram: @jcarlossc
-- 📧 Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/carlos-da-costa-669252149/](https://www.linkedin.com/in/carlos-da-costa-669252149/)  
-- 🐙 GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
-- 📊 Kaggle: [kaggle.com/jcarlossc](https://www.kaggle.com/jcarlossc/code)
+### 📌 Contatos
+📌Recife, PE - Brasil<br>
+📌Telefone: +55 81 99712 9140<br>
+📌Telegram: @jcarlossc<br>
+📌Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
+📌Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
+📌Email: jcarlossc1977@gmail.com<br>
+📌Portfólio em construção: https://portfolio-carlos-costa.netlify.app/<br>
+📌LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
+📌GitHub: https://github.com/jcarlossc<br>
+📌Kaggle: https://www.kaggle.com/jcarlossc/  
+📌Twitter/X: https://x.com/jcarlossc1977
 
 ---
 
-## ✨ Objetivo
+## 📌 Objetivo
 
 Atuar como **desenvolvedor Python** aplicando boas práticas, automações, e soluções robustas — com visão de melhoria contínua e aprendizado constante.
 
