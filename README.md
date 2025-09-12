@@ -1,9 +1,9 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
-# 👨‍💻 José Carlos Soares da Costa
+# 📌 José Carlos Soares da Costa
 
-🔁 **Transição de carreira** — Da área de logística e reformas para o universo da tecnologia.  
-🐍 Desenvolvedor com foco em **Python** e projetos práticos voltados para automações, APIs, interfaces gráficas e boas práticas.  
-📍 Recife, Pernambuco — Brasil
+📌 **Transição de carreira** — Da área de logística e reformas para o universo da tecnologia.  
+📌 Desenvolvedor com foco em **Python** e projetos práticos voltados para automações, APIs, interfaces gráficas e boas práticas.  
+📌 Recife, Pernambuco — Brasil
 
 ---
 
@@ -49,31 +49,32 @@
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🔐 [Validador com Regex + Strategy](https://github.com/jcarlossc/validador-strategy-pattern) | Python, Regex, OOP | Valida CPF, CNPJ, IP, e-mail, URL, e mais usando padrão Strategy |
-| 🎨 [Calculadora com Tkinter + Command](https://github.com/jcarlossc/calculadora-tkinter-command) | Python, GUI, OOP | Interface gráfica com botão por botão controlado via padrão de projeto |
-| 🔗 [Gerenciador de Links com Flask](https://github.com/jcarlossc/gerenciador-links-flask) | Flask, SQLite, Bootstrap | CRUD simples com SQLite e design responsivo |
-| 🤖 [Automação com GitHub API](https://github.com/jcarlossc/github-api-automation) | Python, PyGithub | Automatiza tarefas de repositórios e issues com autenticação via token |
+| 📌 [Validador com Regex + Strategy](https://github.com/jcarlossc/validador-strategy-pattern) | Python, Regex, OOP | Valida CPF, CNPJ, IP, e-mail, URL, e mais usando padrão Strategy |
+| 📌 [Calculadora com Tkinter + Command](https://github.com/jcarlossc/calculadora-tkinter-command) | Python, GUI, OOP | Interface gráfica com botão por botão controlado via padrão de projeto |
+| 📌 [Gerenciador de Links com Flask](https://github.com/jcarlossc/gerenciador-links-flask) | Flask, SQLite, Bootstrap | CRUD simples com SQLite e design responsivo |
+| 📌 [Automação com GitHub API](https://github.com/jcarlossc/github-api-automation) | Python, PyGithub | Automatiza tarefas de repositórios e issues com autenticação via token |
 
-➡️ Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
+➡📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
 
 ---
 
 ## 📌 Certificados
 
-✅ Veja meus certificados organizados por pasta em:  
-📁 [`certificados`](https://github.com/jcarlossc/certificados)
+📌 Veja meus certificados organizados por pasta em:  
+📌 [`certificados`](https://github.com/jcarlossc/certificados)
 
 - Python, Flask, APIs
-- SQL e Banco de Dados
+- Linguagem R, RStudio
+- Banco de Dados - SQL, SQLite 
 - Git e GitHub
-- HTML, CSS, JavaScript
-- Linux, PHP, Java, Spring Boot
+- HTML, CSS, JavaScript, Bootstrap
+- Linux, Windows
 
 ---
 
 ## 📌 Portfólio Online
 
-🎯 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
+📌 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
 
 ---
 
