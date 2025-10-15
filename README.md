@@ -2,7 +2,7 @@
 # 📌 José Carlos Soares da Costa
 
 📌 **Transição de carreira** — Da área de logística e reformas para o universo da tecnologia.  
-📌 Desenvolvedor com foco em **Python** e projetos práticos voltados para automações, APIs, interfaces gráficas e boas práticas.  
+📌 Desenvolvedor com foco em linguagem **R** e **Python**, e projetos práticos voltados para análise de dados, automações, APIs, interfaces gráficas e boas práticas.  
 📌 Recife, Pernambuco — Brasil
 
 ---
