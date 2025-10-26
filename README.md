@@ -9,8 +9,8 @@
 
 ## 📌 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=codeSTACKr)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=slateorange)
 
 
 ---
