@@ -9,7 +9,7 @@
 
 ## 📌 Minhas estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
+![GitHub Stats](https://readme-stats.clckblog.space/api?username=jcarlossc&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=dark)
 
 ---
