@@ -69,12 +69,6 @@
 
 ---
 
-## 📌 Portfólio Online
-
-📌 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
-
----
-
 ## 📌 Contato
 
 ### 📌 Contatos
