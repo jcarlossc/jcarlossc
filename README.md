@@ -9,15 +9,8 @@
 
 ## 📌 Minhas estatísticas
 
-<div align="center">
-
-<!-- Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<!-- Top Langs -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=tokyonight"/>
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=dark)
 
 ---
 
