@@ -7,12 +7,15 @@
 
 ---
 
-## 📌 GitHub Stats
+## 📌 Minhas estatísticas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=dark)
+<!-- Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<!-- Top Langs -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&theme=tokyonight"/>
 
 </div>
 
