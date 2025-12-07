@@ -10,7 +10,12 @@
 ## 📌 Minhas estatísticas
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
-![Top linguagens — espelho local](assets/top-langs.svg)
+
+<div>
+<a href="https://github.com/jcarlossc">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarlossc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
