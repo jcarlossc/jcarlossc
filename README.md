@@ -1,5 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
-# 📌 Olá, eu sou José Carlos Soare da Costa
+# 📌 Olá, eu sou José Carlos Soare da Costa 
 
 ## 📌Analista de Dados | Programador Python & R | Estatística & Visualização de Dados
 
