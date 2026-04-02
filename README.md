@@ -12,7 +12,7 @@ Tenho forte interesse em transformar dados em informação útil para tomada de 
 
 ## 📌 Minhas estatísticas
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=default)
 
 ---
 
