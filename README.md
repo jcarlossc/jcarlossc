@@ -59,13 +59,12 @@ Tenho forte interesse em transformar dados em informação útil para tomada de 
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 📌 [Validador com Regex e Strategy](https://github.com/jcarlossc/validador-strategy-pattern) | Python, Regex, OOP | Valida CPF, CNPJ, IP, e-mail, URL, e mais usando padrão Strategy |
+| 📌 [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
+| 📌 [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
+| 📌 [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
 | 📌 [api-consumer-project](https://github.com/jcarlossc/api-consumer-project) | Python, Pytest | Consumo de diferentes tipos de APIs - REST, GraphQL, SOAP, WebSocket, OData |
-| 📌 [tabela_frequencia](https://github.com/jcarlossc/tabela_frequencia) | Linguagem R, ggplot2 | Estudo sobre tabela de frequência classificada |
-| 📌 [natural-language-processing-01-r](https://github.com/jcarlossc/natural-language-processing-01-r) | Linguagem R, Shiny | Pipeline completo de Processamento de Linguagem Natural (NLP) |
-| 📌 [dashboard-qlikview-informaticus](https://github.com/jcarlossc/dashboard-qlikview-informaticus) | QlikView | Dashboard interativo para análise de vendas |
-| 📌 [Gerenciador de Links com Flask](https://github.com/jcarlossc/gerenciador-links-flask) | Flask, SQLite, Bootstrap | CRUD simples com SQLite e design responsivo |
-| 📌 [Automação com GitHub API](https://github.com/jcarlossc/github-api-automation) | Python, PyGithub | Automatiza tarefas de repositórios e issues com autenticação via token |
+| 📌 [Automação com GitHub API](https://github.com/jcarlossc/github-api-automation) | Python, PyGithub | Automatiza tarefas de repositórios com autenticação via token |
+| 📌 [Validador de entrada (Regex e Strategy)](https://github.com/jcarlossc/validador-strategy-pattern) | Python, Regex, OOP | Valida CPF, CNPJ, IP, e-mail e URL |
 
 📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
 
@@ -76,7 +75,7 @@ Tenho forte interesse em transformar dados em informação útil para tomada de 
 📌 Veja meus certificados organizados por pasta em:  
 📌 [`certificados`](https://github.com/jcarlossc/certificados)
 
-- Python, Flask, APIs
+- Python
 - Linguagem R, RStudio
 - Estatística
 - Excel
