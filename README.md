@@ -1,12 +1,23 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
-# 📌 Olá, eu sou José Carlos Soare da Costa 
+# 👨‍💻 Olá, eu sou Carlos da Costa 
 
-## 📌Analista de Dados | Programador Python & R | Estatística & Visualização de Dados
+🎯 Analista de Dados | Analytics Engineer e Engenheiro de Dados (em evolução)<br />
+📍 Brasil
 
-Sou um profissional em transição de carreira, com ótima experiência prática em Python e linguagem R aplicados à análise de dados e Back-end(Python), estatística e 
-visualização, desenvolvendo projetos completos, bem documentados e com boas práticas de engenharia de software e ciência de dados.
+Transformo dados brutos em insights acionáveis, atuando desde a coleta até a visualização.
 
-Tenho forte interesse em transformar dados em informação útil para tomada de decisão, utilizando métodos estatísticos, análise exploratória, visualizações claras e automação de processos analíticos.
+---
+
+🚀 Sobre mim
+
+Profissional de dados com prática em:
+
+Construção de pipelines de dados
+Análise exploratória (EDA) e estatística
+Integração com APIs e bancos de dados
+Desenvolvimento de dashboards e relatórios
+
+Tenho foco em resolver problemas de negócio usando dados — não apenas analisá-los.
 
 ---
 
@@ -43,15 +54,32 @@ Tenho forte interesse em transformar dados em informação útil para tomada de 
 
 ---
 
-## 📌Áreas de Atuação
+🧠 Stack de Dados
 
-* Análise Exploratória de Dados (EDA)
-* Estatística Descritiva e Inferencial
-* Modelagem Estatística e Regressão
-* Visualização de Dados (gráficos e dashboards)
-* Limpeza, transformação e preparação de dados
-* Automação de análises e pipelines de dados
-* Testes e reprodutibilidade de projetos analíticos
+Linguagens
+
+* Python
+* R
+
+Análise & Estatística
+
+* EDA
+* Estatística descritiva e inferencial
+* Modelagem estatística
+
+Dados & Engenharia
+
+* Consumo de APIs
+* Integração com bancos de dados (MySQL)
+* Limpeza e padronização de dados
+* Construção de pipelines
+
+BI & Visualização
+
+* QlikView
+* Tableau
+* Dashboards interativos
+* Storytelling com dados
 
 ---
 
@@ -62,11 +90,30 @@ Tenho forte interesse em transformar dados em informação útil para tomada de 
 | 📌 [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
 | 📌 [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
 | 📌 [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
-| 📌 [api-consumer-project](https://github.com/jcarlossc/api-consumer-project) | Python, Pytest | Consumo de diferentes tipos de APIs - REST, GraphQL, SOAP, WebSocket, OData |
-| 📌 [Automação com GitHub API](https://github.com/jcarlossc/github-api-automation) | Python, PyGithub | Automatiza tarefas de repositórios com autenticação via token |
+| 📌 [pipeline-mysql-rmarkdown](https://github.com/jcarlossc/pipeline-mysql-rmarkdown) | Linguagem R | Pipeline para consumo de banco de dados MySQL, Exploração de Dados, relatório R Markdown e DashBoard Shiny |
+| 📌 [dashboard-qlikview-accidents](https://github.com/jcarlossc/dashboard-qlikview-accidents) | Qlikview | Projeto Painel de Acidentes de Trânsito na cidade do Recife em 2019, implementado em Qlikview. |
 | 📌 [Validador de entrada (Regex e Strategy)](https://github.com/jcarlossc/validador-strategy-pattern) | Python, Regex, OOP | Valida CPF, CNPJ, IP, e-mail e URL |
 
 📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
+
+---
+
+📊 O que eu entrego
+
+✔ Dados brutos → dados tratados<br />
+✔ Dados tratados → análise<br />
+✔ Análise → insight<br />
+✔ Insight → decisão<br />
+
+---
+
+🎯 Objetivo
+
+Evoluir para posições como:
+
+* Analista de Dados Pleno/Sênior
+* Analytics Engineer (em construção)
+* Engenheiro de Dados (em construção)
 
 ---
 
@@ -75,15 +122,6 @@ Tenho forte interesse em transformar dados em informação útil para tomada de 
 📌 Veja meus certificados organizados por pasta em:  
 📌 [`certificados`](https://github.com/jcarlossc/certificados)
 
-- Python
-- Linguagem R, RStudio
-- Estatística
-- Excel
-- Banco de Dados - SQL, SQLite 
-- Git e GitHub
-- HTML, CSS, JavaScript, Bootstrap
-- Linux, Windows
-
 ---
 
 ## 📌 Contato
@@ -91,7 +129,6 @@ Tenho forte interesse em transformar dados em informação útil para tomada de 
 * Recife, PE - Brasil<br>
 * Telefone: +55 81 99712 9140<br>
 * Telegram: @jcarlossc<br>
-* Pypi: https://pypi.org/user/jcarlossc/<br>
 * Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
 * Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
 * Email: jcarlossc1977@gmail.com<br>
