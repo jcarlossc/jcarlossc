@@ -12,10 +12,10 @@ Transformo dados brutos em insights acionáveis, atuando desde a coleta até a v
 
 Profissional de dados com prática em:
 
-Construção de pipelines de dados
-Análise exploratória (EDA) e estatística
-Integração com APIs e bancos de dados
-Desenvolvimento de dashboards e relatórios
+* Construção de pipelines de dados
+* Análise exploratória (EDA) e estatística
+* Integração com APIs e bancos de dados
+* Desenvolvimento de dashboards e relatórios
 
 Tenho foco em resolver problemas de negócio usando dados — não apenas analisá-los.
 
@@ -33,8 +33,6 @@ Tenho foco em resolver problemas de negócio usando dados — não apenas analis
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white)
