@@ -85,12 +85,14 @@ BI & Visualização
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
+| 📌 [google-sales-analytics-agent](https://github.com/jcarlossc/google-sales-analytics-agent)| Python | Pipeline ETL baseado em Python e Banco de Dados MySQL para ingestão, padronização e criação de Relatório com Agente IA Google. |
+| 📌 [sales-analysis](https://github.com/jcarlossc/sales-analysis) | Python - Jupyter | Projeto de análise de dados para investigar métricas de vendas, lucratividade e o impacto de descontos sobre o desempenho comercial. |
+| 📌 [salespipeline](https://github.com/jcarlossc/salespipeline) | Linguagem R | Pipeline baseado em R para consumo de Banco de Dados, processamento, Relatório e DashBoard Shiny. |
 | 📌 [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
 | 📌 [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
 | 📌 [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
 | 📌 [pipeline-mysql-rmarkdown](https://github.com/jcarlossc/pipeline-mysql-rmarkdown) | Linguagem R | Pipeline para consumo de banco de dados MySQL, Exploração de Dados, relatório R Markdown e DashBoard Shiny |
 | 📌 [dashboard-qlikview-accidents](https://github.com/jcarlossc/dashboard-qlikview-accidents) | Qlikview | Projeto Painel de Acidentes de Trânsito na cidade do Recife em 2019, implementado em Qlikview. |
-| 📌 [Validador de entrada (Regex e Strategy)](https://github.com/jcarlossc/validador-strategy-pattern) | Python, Regex, OOP | Valida CPF, CNPJ, IP, e-mail e URL |
 
 📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
 
