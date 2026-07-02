@@ -4,10 +4,14 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
 # 👨‍💻 Olá, eu sou Carlos da Costa 
 
-🎯 Analista de Dados | Analytics Engineer e Engenheiro de Dados (em evolução)<br />
-📍 Brasil
+Desenvolvo soluções utilizando Python e R, atuando em todas as etapas do ciclo de dados: coleta, tratamento, análise exploratória, criação de métricas e KPIs, visualização e automação de processos analíticos.
 
-Transformo dados brutos em insights acionáveis, atuando desde a coleta até a visualização.
+Tenho experiência no desenvolvimento de projetos envolvendo análise de dados, bancos de dados, APIs e soluções com Inteligência Artificial, buscando transformar dados complexos em insights claros e aplicáveis.
+
+Estou aberto a oportunidades profissionais nas áreas de Ciência de Dados, Analytics e Engenharia de Dados, além de projetos freelance relacionados a dados.
+
+
+🎯 Analista de Dados | Analytics Engineer e Engenheiro de Dados (em evolução)<br />
 
 ---
 
