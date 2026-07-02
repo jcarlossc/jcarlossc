@@ -1,4 +1,4 @@
-<img src="https://github.com/jcarlossc/jcarlossc/blob/main/imagens/data_image.png">
+<img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/data_image.png">
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
