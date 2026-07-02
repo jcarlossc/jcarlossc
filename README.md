@@ -19,83 +19,82 @@ Estou aberto a oportunidades profissionais nas áreas de Ciência de Dados, Anal
 
 Profissional de dados com prática em:
 
-* Construção de pipelines de dados
-* Análise exploratória (EDA) e estatística
+* Construção de Pipelines de Dados (ETL)
+* Análise Exploratória de Dados (EDA) 
+* Análises Estatísticas
 * Integração com APIs e bancos de dados
 * Desenvolvimento de dashboards e relatórios
-
-Tenho foco em resolver problemas de negócio usando dados — não apenas analisá-los.
-
 
 ## 📌 Minhas estatísticas
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=default)
 
 
-## 📌 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white)
-![ggplot2](https://img.shields.io/badge/-ggplot2-FFFFFF?style=for-the-badge&logo=ggplot2&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Shiny](https://img.shields.io/badge/-Shiny-0067B8?style=for-the-badge&logo=shiny&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=b)
 
 
 ## 🧠 Stack de Dados
 
-Linguagens
+### Linguagens
+✔ Python<br />
+✔ R<br />
 
-* Python
-* R
+### Análise & Estatística
+✔ Análise Exploratória (EDA)<br />
+✔ Estatística Descritiva<br />
+✔ Estatística Inferencial<br />
+✔ Modelagem Estatística<br />
+✔ Interpretação de Métricas<br />
 
-Análise & Estatística
+### Dados & Engenharia
+✔ Consumo de APIs<br />
+✔ Integração com bancos de dados (MySQL)<br />
+✔ Limpeza e padronização de dados<br />
+✔ Construção de pipelines<br />
 
-* EDA
-* Estatística descritiva e inferencial
-* Modelagem estatística
-
-Dados & Engenharia
-
-* Consumo de APIs
-* Integração com bancos de dados (MySQL)
-* Limpeza e padronização de dados
-* Construção de pipelines
-
-BI & Visualização
-
-* QlikView
-* Tableau
-* Dashboards interativos
-* Storytelling com dados
-
+### BI & Visualização
+✔ QlikView<br />
+✔ Tableau<br />
+✔ Shiny<br />
+✔ MatPlotLib<br />
+✔ SeaBorn<br />
+✔ GGPlot2<br />
+✔ Dashboards interativos<br />
+✔ Storytelling com dados<br />
 
 ## 📌 Projetos em destaque
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 📌 [google-sales-analytics-agent](https://github.com/jcarlossc/google-sales-analytics-agent)| Python | Pipeline ETL baseado em Python e Banco de Dados MySQL para ingestão, padronização e criação de Relatório com Agente IA Google. |
-| 📌 [sales-analysis](https://github.com/jcarlossc/sales-analysis) | Python - Jupyter | Projeto de análise de dados para investigar métricas de vendas, lucratividade e o impacto de descontos sobre o desempenho comercial. |
-| 📌 [salespipeline](https://github.com/jcarlossc/salespipeline) | Linguagem R | Pipeline baseado em R para consumo de Banco de Dados, processamento, Relatório e DashBoard Shiny. |
-| 📌 [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
-| 📌 [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
-| 📌 [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
-| 📌 [pipeline-mysql-rmarkdown](https://github.com/jcarlossc/pipeline-mysql-rmarkdown) | Linguagem R | Pipeline para consumo de banco de dados MySQL, Exploração de Dados, relatório R Markdown e DashBoard Shiny |
-| 📌 [dashboard-qlikview-accidents](https://github.com/jcarlossc/dashboard-qlikview-accidents) | Qlikview | Projeto Painel de Acidentes de Trânsito na cidade do Recife em 2019, implementado em Qlikview. |
+| ✅ [google-sales-analytics-agent](https://github.com/jcarlossc/google-sales-analytics-agent)| Python | Pipeline ETL baseado em Python e Banco de Dados MySQL para ingestão, padronização e criação de Relatório com Agente IA Google. |
+| ✅ [sales-analysis](https://github.com/jcarlossc/sales-analysis) | Python - Jupyter | Projeto de análise de dados para investigar métricas de vendas, lucratividade e o impacto de descontos sobre o desempenho comercial. |
+| ✅ [salespipeline](https://github.com/jcarlossc/salespipeline) | Linguagem R | Pipeline baseado em R para consumo de Banco de Dados, processamento, Relatório e DashBoard Shiny. |
+| ✅ [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
+| ✅ [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
+| ✅ [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
+| ✅ [pipeline-mysql-rmarkdown](https://github.com/jcarlossc/pipeline-mysql-rmarkdown) | Linguagem R | Pipeline para consumo de banco de dados MySQL, Exploração de Dados, relatório R Markdown e DashBoard Shiny |
+| ✅ [dashboard-qlikview-accidents](https://github.com/jcarlossc/dashboard-qlikview-accidents) | Qlikview | Projeto Painel de Acidentes de Trânsito na cidade do Recife em 2019, implementado em Qlikview. |
 
 📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
 
@@ -117,13 +116,13 @@ Evoluir para posições como:
 * Engenheiro de Dados (em construção)
 
 
-## 📌 Certificados
+## 🧾 Certificados
 
 Veja meus certificados organizados por pasta em:  
 📌 [`certificados`](https://github.com/jcarlossc/certificados)
 
 
-## 📌 Contato
+## 🔎 Contato
 
 * Recife, PE - Brasil<br>
 * Telefone: +55 81 99712 9140<br>
