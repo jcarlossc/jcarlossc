@@ -1,8 +1,8 @@
 <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/data_image.png">
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)<br />
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)
-# 👨‍💻 Olá, eu sou Carlos da Costa 
+# <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/jose_carlos_soares.png" style="width:30px; border-radius:50%;"> Olá, eu sou Carlos da Costa 
 
 Desenvolvo soluções utilizando Python e R, atuando em todas as etapas do ciclo de dados: coleta, tratamento, análise exploratória, criação de métricas e KPIs, visualização e automação de processos analíticos.
 
@@ -11,11 +11,11 @@ Tenho experiência no desenvolvimento de projetos envolvendo análise de dados, 
 Estou aberto a oportunidades profissionais nas áreas de Ciência de Dados, Analytics e Engenharia de Dados, além de projetos freelance relacionados a dados.
 
 
-🎯 Analista de Dados | Analytics Engineer e Engenheiro de Dados (em evolução)<br />
+🎯 Análise de Dados | Analytics Engineer e Engenheiro de Dados (em evolução)<br />
 
 ---
 
-🚀 Sobre mim
+## 🚀 Sobre mim
 
 Profissional de dados com prática em:
 
@@ -26,13 +26,11 @@ Profissional de dados com prática em:
 
 Tenho foco em resolver problemas de negócio usando dados — não apenas analisá-los.
 
----
 
 ## 📌 Minhas estatísticas
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=default)
 
----
 
 ## 📌 Tecnologias
 
@@ -57,9 +55,8 @@ Tenho foco em resolver problemas de negócio usando dados — não apenas analis
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-🧠 Stack de Dados
+## 🧠 Stack de Dados
 
 Linguagens
 
@@ -86,7 +83,6 @@ BI & Visualização
 * Dashboards interativos
 * Storytelling com dados
 
----
 
 ## 📌 Projetos em destaque
 
@@ -103,18 +99,16 @@ BI & Visualização
 
 📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
 
----
 
-📊 O que eu entrego
+## 📊 O que eu entrego
 
 ✔ Dados brutos → dados tratados<br />
 ✔ Dados tratados → análise<br />
 ✔ Análise → insight<br />
 ✔ Insight → decisão<br />
 
----
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Evoluir para posições como:
 
@@ -122,14 +116,12 @@ Evoluir para posições como:
 * Analytics Engineer (em construção)
 * Engenheiro de Dados (em construção)
 
----
 
 ## 📌 Certificados
 
-📌 Veja meus certificados organizados por pasta em:  
+Veja meus certificados organizados por pasta em:  
 📌 [`certificados`](https://github.com/jcarlossc/certificados)
 
----
 
 ## 📌 Contato
 
@@ -144,7 +136,6 @@ Evoluir para posições como:
 * Kaggle: https://www.kaggle.com/jcarlossc/  
 * Twitter/X: https://x.com/jcarlossc1977
 
----
 
 ## 📌 Objetivo
 
