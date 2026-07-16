@@ -2,6 +2,10 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)<br />
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jcarlossc&theme=dark)
+
 # <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/jose_carlos_soares.png" style="width:30px; border-radius:50%;"> Olá, eu sou Carlos da Costa 
 
 Desenvolvo soluções utilizando Python e R, atuando em todas as etapas do ciclo de dados: coleta, tratamento, análise exploratória, criação de métricas e KPIs, visualização e automação de processos analíticos.
@@ -24,12 +28,6 @@ Profissional de dados com prática em:
 * Análises Estatísticas
 * Integração com APIs e bancos de dados
 * Desenvolvimento de dashboards e relatórios
-
-## 📌 Minhas estatísticas
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact)
 
 
 ## 🛠️ Tecnologias e Ferramentas
