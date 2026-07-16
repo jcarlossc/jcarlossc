@@ -29,6 +29,8 @@ Profissional de dados com prática em:
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlossc&layout=compact)
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
