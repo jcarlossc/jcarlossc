@@ -4,8 +4,6 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jcarlossc&theme=dark)
-
 # <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/jose_carlos_soares.png" style="width:30px; border-radius:50%;"> Olá, eu sou Carlos da Costa 
 
 Desenvolvo soluções utilizando Python e R, atuando em todas as etapas do ciclo de dados: coleta, tratamento, análise exploratória, criação de métricas e KPIs, visualização e automação de processos analíticos.
