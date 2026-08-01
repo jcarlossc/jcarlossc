@@ -1,56 +1,79 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)<br />
+
 <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/data_image_01.png">
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jcarlossc)<br />
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
 
+# 📊 DATA ANALYST & DATA ENGINEER
+
+### Transformando dados em decisões estratégicas
+
+### Análise de Dados | Engenharia de Dados | Business Intelligence
+
+
+
+</div>
+
+---
+
 # <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/jose_carlos_soares.png" style="width:30px; border-radius:50%;"> Olá, eu sou Carlos da Costa 
 
-Desenvolvo soluções utilizando Python e R, atuando em todas as etapas do ciclo de dados: coleta, tratamento, análise exploratória, criação de métricas e KPIs, visualização e automação de processos analíticos.
+Empresas produzem dados todos os dias.
 
-Tenho experiência no desenvolvimento de projetos envolvendo análise de dados, bancos de dados, APIs e soluções com Inteligência Artificial, buscando transformar dados complexos em insights claros e aplicáveis.
+O verdadeiro diferencial está em transformar esses dados em informações confiáveis, indicadores relevantes e soluções que apoiem decisões estratégicas.
 
-Estou aberto a oportunidades profissionais nas áreas de Ciência de Dados, Analytics e Engenharia de Dados, além de projetos freelance relacionados a dados.
+Desenvolvo projetos completos de Análise de Dados e Engenharia de Dados utilizando Python e R, construindo pipelines automatizados, integrando APIs e bancos de dados, aplicando métodos estatísticos e criando dashboards interativos para diferentes áreas do negócio.
+
+Cada projeto é desenvolvido seguindo boas práticas de qualidade, documentação e automação, garantindo resultados consistentes e escaláveis.
 
 
 🎯 Análise de Dados | Analytics Engineer e Engenheiro de Dados (em evolução)<br />
 
----
-
 ## 🚀 Sobre mim
 
-Profissional de dados com prática em:
+Profissional de dados focado em transformar dados brutos em informações estratégicas para apoiar decisões de negócio.
 
-* Construção de Pipelines de Dados (ETL)
-* Análise Exploratória de Dados (EDA) 
-* Análises Estatísticas
-* Integração com APIs e bancos de dados
-* Desenvolvimento de dashboards e relatórios
+Atuo no desenvolvimento de soluções completas envolvendo:
+
+✔ Coleta e tratamento de dados<br />
+✔ Processos ETL/ELT<br />
+✔ Análise exploratória de dados<br />
+✔ Criação de indicadores e KPIs<br />
+✔ Automação de processos<br />
+✔ Desenvolvimento de APIs de dados<br />
+✔ Modelagem e integração de bancos de dados<br />
+
+Meu objetivo é conectar tecnologia, análise e negócio para gerar valor através dos dados.
 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LINGUAGEM-PYTHON-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LINGUAGEM-R-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ANÁLISE-PANDAS-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MATEMÁTICA-NUMPY-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GRÁFICOS-MATPLOTLIB-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GRÁFICOS-SEABORN-violet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GRÁFICOS-GGPLOT2-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AMBIENTE-JUPYTER-warning?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VERSIONAMENTO-GIT-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REPOSITÓRIO-GITHUB-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDITOR-VSVODE-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDITOR-RSTUDIO-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-MYSQL-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SISTEMA%20OPERACIONAL-WINDOWS-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SISTEMA%20OPERACIONAL-UBUNTU-violet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MARCAÇÃO-HTML-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ESTILO-CSS-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INTERAÇÃO-JAVASCRIPT-red?style=for-the-badge" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=b)
-
+</div>
 
 ## 🧠 Stack de Dados
 
@@ -85,14 +108,14 @@ Profissional de dados com prática em:
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| ✅ [google-sales-analytics-agent](https://github.com/jcarlossc/google-sales-analytics-agent)| Python | Pipeline ETL baseado em Python e Banco de Dados MySQL para ingestão, padronização e criação de Relatório com Agente IA Google. |
-| ✅ [sales-analysis](https://github.com/jcarlossc/sales-analysis) | Python - Jupyter | Projeto de análise de dados para investigar métricas de vendas, lucratividade e o impacto de descontos sobre o desempenho comercial. |
-| ✅ [salespipeline](https://github.com/jcarlossc/salespipeline) | Linguagem R | Pipeline baseado em R para consumo de Banco de Dados, processamento, Relatório e DashBoard Shiny. |
-| ✅ [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
-| ✅ [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
-| ✅ [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
-| ✅ [pipeline-mysql-rmarkdown](https://github.com/jcarlossc/pipeline-mysql-rmarkdown) | Linguagem R | Pipeline para consumo de banco de dados MySQL, Exploração de Dados, relatório R Markdown e DashBoard Shiny |
-| ✅ [dashboard-qlikview-accidents](https://github.com/jcarlossc/dashboard-qlikview-accidents) | Qlikview | Projeto Painel de Acidentes de Trânsito na cidade do Recife em 2019, implementado em Qlikview. |
+| ✔ [google-sales-analytics-agent](https://github.com/jcarlossc/google-sales-analytics-agent)| Python | Pipeline ETL baseado em Python e Banco de Dados MySQL para ingestão, padronização e criação de Relatório com Agente IA Google. |
+| ✔ [sales-analysis](https://github.com/jcarlossc/sales-analysis) | Python - Jupyter | Projeto de análise de dados para investigar métricas de vendas, lucratividade e o impacto de descontos sobre o desempenho comercial. |
+| ✔ [salespipeline](https://github.com/jcarlossc/salespipeline) | Linguagem R | Pipeline baseado em R para consumo de Banco de Dados, processamento, Relatório e DashBoard Shiny. |
+| ✔ [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
+| ✔ [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
+| ✔ [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
+| ✔ [pipeline-mysql-rmarkdown](https://github.com/jcarlossc/pipeline-mysql-rmarkdown) | Linguagem R | Pipeline para consumo de banco de dados MySQL, Exploração de Dados, relatório R Markdown e DashBoard Shiny |
+| ✔ [dashboard-qlikview-accidents](https://github.com/jcarlossc/dashboard-qlikview-accidents) | Qlikview | Projeto Painel de Acidentes de Trânsito na cidade do Recife em 2019, implementado em Qlikview. |
 
 📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
 
