@@ -2,9 +2,11 @@
 
 <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/data_quantum.png">
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarlossc&show_icons=true&theme=dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcarlossc&theme=github_dark)
+![GitHub Stats](https://ghstats.dev/api/card?username=jcarlossc)
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcarlossc&theme=github_dark"
+/>
 
 # 📊 DATA ANALYST & DATA ENGINEER
 
