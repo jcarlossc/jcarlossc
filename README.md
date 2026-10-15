@@ -153,6 +153,8 @@ Veja meus certificados organizados por pasta em:
 * Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
 * Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
 * Email: jcarlossc1977@gmail.com<br>
+* Pypi: [https://pypi.org/user/jcarlossc.dev/](https://pypi.org/user/jcarlossc.dev/)
+* Tableau: [https://public.tableau.com/app/profile/carlos.da.costa7416/vizzes](https://public.tableau.com/app/profile/carlos.da.costa7416/vizzes)
 * LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
 * GitHub: https://github.com/jcarlossc<br>
 * Kaggle: https://www.kaggle.com/jcarlossc/  
