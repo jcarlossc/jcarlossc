@@ -145,7 +145,7 @@ Veja meus certificados organizados por pasta em:
 📌 [`certificados`](https://github.com/jcarlossc/certificados)
 
 
-## 🔎 Contato
+## 🔎 Contatos
 
 * Recife, PE - Brasil<br>
 * Telefone: +55 81 99712 9140<br>
