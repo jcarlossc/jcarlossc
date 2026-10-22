@@ -101,10 +101,17 @@ Busco conectar os aspectos técnicos dos dados às necessidades do negócio, pri
 - Git e GitHub
 - Poetry
 - pytest
+- Pre-commit
 - Ruff e mypy
 - GitHub Actions
 - Jupyter Notebook
+- Visual Studio Code
+- RStudio
 - R Markdown
+- Html 5
+- Css 3
+- Bootstrap
+- JavaScript
 
 ## 📌 Projetos em destaque
 
@@ -181,8 +188,6 @@ Modelo de aprendizado de máquina supervisionado para classificar transações d
 🔗 [Ver projeto em html](https://jcarlossc.github.io/site/assets/projects/sales-profitability-classification.html)
 
 **Veja todos os projetos:** [GitHub — jcarlossc](https://github.com/jcarlossc?tab=repositories)
-
-> Os links individuais devem apontar para os repositórios correspondentes. Nos projetos sem URL confirmada, substitua o link geral pelo endereço específico quando disponível.
 
 ---
 
