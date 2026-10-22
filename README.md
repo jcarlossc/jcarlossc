@@ -29,7 +29,7 @@
 </div>
 
 
-# Carlos da Costa | Data Analyst • Data Scientist • Data Engineer
+# 📊 Carlos da Costa| Data Analyst • Data Scientist • Data Engineer
 
 ### Transformando dados em decisões estratégicas.
 
