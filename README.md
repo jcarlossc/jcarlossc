@@ -2,150 +2,228 @@
 
 <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/data_quantum.png">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcarlossc&theme=github_dark)
-![GitHub Stats](https://ghstats.dev/api/card?username=jcarlossc)
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcarlossc&theme=github_dark"
-/>
+<div align="center">
 
-# 📊 DATA ANALYST & DATA ENGINEER
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcarlossc&theme=github_dark"
+    alt="Profile Details"
+    width="65%"
+  />
 
-### Transformando dados em decisões estratégicas
+  <br>
 
-### Análise de Dados | Engenharia de Dados | Business Intelligence
+  <img
+    src="https://ghstats.dev/api/card?username=jcarlossc"
+    alt="GitHub Stats"
+    width="45%"
+  />
 
+  <br>
 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcarlossc&theme=github_dark"
+    alt="Repos per Language"
+    width="30%"
+  />
 
 </div>
+
+
+# Carlos da Costa | Data Analyst • Data Scientist • Data Engineer
+
+### Transformando dados em decisões estratégicas.
+
+**Data Analytics · Data Science · Data Engineering · Business Intelligence**
+
+Olá! Sou Carlos da Costa, profissional de dados de Recife, Pernambuco, Brasil. Desenvolvo soluções que conectam tecnologia, análise e negócio para transformar dados brutos em informações confiáveis, indicadores relevantes e decisões estratégicas.
+
+Trabalho com **Python, R, SQL, APIs, bancos de dados, pipelines ETL/ELT e visualização de dados**, desenvolvendo projetos que envolvem desde a ingestão e preparação dos dados até a análise, automação e apresentação dos resultados.
+
+Meu foco é construir soluções bem documentadas, organizadas, testáveis e orientadas à qualidade, com atenção à melhoria contínua e à evolução técnica.
 
 ---
 
-# <img src="https://github.com/jcarlossc/jcarlossc/blob/main/images/jose_carlos_soares.png" style="width:30px; border-radius:50%;"> Olá, eu sou Carlos da Costa 
-
-Empresas produzem dados todos os dias.
-
-O verdadeiro diferencial está em transformar esses dados em informações confiáveis, indicadores relevantes e soluções que apoiem decisões estratégicas.
-
-Desenvolvo projetos completos de Análise de Dados e Engenharia de Dados utilizando Python e R, construindo pipelines automatizados, integrando APIs e bancos de dados, aplicando métodos estatísticos e criando dashboards interativos para diferentes áreas do negócio.
-
-Cada projeto é desenvolvido seguindo boas práticas de qualidade, documentação e automação, garantindo resultados consistentes e escaláveis.
-
-
-🎯 Análise de Dados | Analytics Engineer e Engenheiro de Dados (em evolução)<br />
-
 ## 🚀 Sobre mim
 
-Profissional de dados focado em transformar dados brutos em informações estratégicas para apoiar decisões de negócio.
+Sou um profissional de dados interessado em resolver problemas reais por meio da combinação de programação, estatística, engenharia e inteligência de negócios.
 
-Atuo no desenvolvimento de soluções completas envolvendo:
+Minha atuação e meus projetos abrangem:
 
-✔ Coleta e tratamento de dados<br />
-✔ Processos ETL/ELT<br />
-✔ Análise exploratória de dados<br />
-✔ Criação de indicadores e KPIs<br />
-✔ Automação de processos<br />
-✔ Desenvolvimento de APIs de dados<br />
-✔ Modelagem e integração de bancos de dados<br />
+- **Análise de Dados:** exploração, limpeza, transformação, análise estatística e interpretação de indicadores.
+- **Ciência de Dados:** análise exploratória, estatística descritiva e inferencial, investigação de padrões e avaliação de métricas.
+- **Engenharia de Dados:** desenvolvimento de pipelines ETL/ELT, integração de APIs, processamento e validação de dados.
+- **Analytics Engineering:** organização, transformação e preparação de dados para análises confiáveis.
+- **Business Intelligence:** criação de dashboards, KPIs e relatórios para acompanhamento do desempenho empresarial.
+- **Automação:** desenvolvimento de scripts, rotinas e soluções reutilizáveis em Python e R.
 
-Meu objetivo é conectar tecnologia, análise e negócio para gerar valor através dos dados.
+Busco conectar os aspectos técnicos dos dados às necessidades do negócio, priorizando soluções claras, consistentes e sustentáveis.
 
+## 🛠️ Tecnologias e ferramentas
 
-## 🛠️ Tecnologias e Ferramentas
+### Linguagens de programação
 
-<div align="center">
+- Python
+- R
+- SQL
 
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LINGUAGEM-PYTHON-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LINGUAGEM-R-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ANÁLISE-PANDAS-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MATEMÁTICA-NUMPY-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GRÁFICOS-MATPLOTLIB-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GRÁFICOS-SEABORN-violet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GRÁFICOS-GGPLOT2-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AMBIENTE-JUPYTER-warning?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VERSIONAMENTO-GIT-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REPOSITÓRIO-GITHUB-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EDITOR-VSVODE-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EDITOR-RSTUDIO-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-MYSQL-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SISTEMA%20OPERACIONAL-WINDOWS-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SISTEMA%20OPERACIONAL-UBUNTU-violet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MARCAÇÃO-HTML-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESTILO-CSS-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/INTERAÇÃO-JAVASCRIPT-red?style=for-the-badge" />
+### Análise de dados e estatística
 
-</div>
+- Análise Exploratória de Dados (EDA)
+- Estatística Descritiva e Inferencial
+- Modelagem Estatística
+- Limpeza, transformação e padronização de dados
+- Análise de métricas e indicadores
+- Pandas e ferramentas de análise em R
 
-## 🧠 Stack de Dados
+### Engenharia de dados
 
-### Linguagens
-✔ Python<br />
-✔ R<br />
+- Pipelines ETL/ELT
+- Integração e consumo de APIs REST
+- MySQL e integração com bancos de dados
+- Ingestão, validação e processamento de dados
+- Automação de processos
+- Desenvolvimento de aplicações e APIs com Python
+- Testes, documentação e controle de qualidade
 
-### Análise & Estatística
-✔ Análise Exploratória (EDA)<br />
-✔ Estatística Descritiva<br />
-✔ Estatística Inferencial<br />
-✔ Modelagem Estatística<br />
-✔ Interpretação de Métricas<br />
+### Business Intelligence e visualização
 
-### Dados & Engenharia
-✔ Consumo de APIs<br />
-✔ Integração com bancos de dados (MySQL)<br />
-✔ Limpeza e padronização de dados<br />
-✔ Construção de pipelines<br />
+- Tableau
+- QlikView
+- Shiny
+- Matplotlib
+- Seaborn
+- ggplot2
+- Dashboards interativos
+- Storytelling com dados
 
-### BI & Visualização
-✔ QlikView<br />
-✔ Tableau<br />
-✔ Shiny<br />
-✔ MatPlotLib<br />
-✔ SeaBorn<br />
-✔ GGPlot2<br />
-✔ Dashboards interativos<br />
-✔ Storytelling com dados<br />
+### Ferramentas de desenvolvimento
+
+- Git e GitHub
+- Poetry
+- pytest
+- Ruff e mypy
+- GitHub Actions
+- Jupyter Notebook
+- R Markdown
 
 ## 📌 Projetos em destaque
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| ✔ [google-sales-analytics-agent](https://github.com/jcarlossc/google-sales-analytics-agent)| Python | Pipeline ETL baseado em Python e Banco de Dados MySQL para ingestão, padronização e criação de Relatório com Agente IA Google. |
-| ✔ [sales-analysis](https://github.com/jcarlossc/sales-analysis) | Python - Jupyter | Projeto de análise de dados para investigar métricas de vendas, lucratividade e o impacto de descontos sobre o desempenho comercial. |
-| ✔ [salespipeline](https://github.com/jcarlossc/salespipeline) | Linguagem R | Pipeline baseado em R para consumo de Banco de Dados, processamento, Relatório e DashBoard Shiny. |
-| ✔ [Pipeline ETL R](https://github.com/jcarlossc/accident-analytics-pipeline-r/) | Linguagem R | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados |
-| ✔ [Pipeline ETL Python](https://github.com/jcarlossc/accident-analytics-pipeline-python) | Python | Sistema de Ingestão, Padronização, Limpeza e Validação e registro de Dados. |
-| ✔ [API EBGE em Python](https://github.com/jcarlossc/ibge-api-report-r) | Linguagem R | Pipeline baseado em R para consumo de API IBGE e geração de relatório Estatístico. |
-| ✔ [pipeline-mysql-rmarkdown](https://github.com/jcarlossc/pipeline-mysql-rmarkdown) | Linguagem R | Pipeline para consumo de banco de dados MySQL, Exploração de Dados, relatório R Markdown e DashBoard Shiny |
-| ✔ [dashboard-qlikview-accidents](https://github.com/jcarlossc/dashboard-qlikview-accidents) | Qlikview | Projeto Painel de Acidentes de Trânsito na cidade do Recife em 2019, implementado em Qlikview. |
+### 1. ETL Python Gmail → MySQL
 
-📌 Veja todos os repositórios: [github.com/jcarlossc?tab=repositories](https://github.com/jcarlossc?tab=repositories)
+**Tecnologias:** Python · MySQL · ETL · API Gmail
 
+Pipeline ETL desenvolvido em Python para extração de arquivos enviados por e-mail via Gmail, validação, padronização, limpeza, integração de dados de vendas e clientes e armazenamento em um banco de dados MySQL estruturado em Star Schema.
 
-## 📊 O que eu entrego
+🔗 [Acessar repositório](https://github.com/jcarlossc/etl-python-gmail-mysql)
 
-✔ Dados brutos → dados tratados<br />
-✔ Dados tratados → análise<br />
-✔ Análise → insight<br />
-✔ Insight → decisão<br />
+### 2. Info Sales MySQL API
 
+**Tecnologias:** Python · MySQL · FastAPI
 
-## 🎯 Objetivo
+Info Sales MySQL API é uma API desenvolvida em Python utilizando FastAPI, responsável por consumir dados de um banco MySQL, realizar tratamento, validação e análise das informações e disponibilizar indicadores de negócio (KPIs) através de endpoints REST.
 
-Evoluir para posições como:
+🔗 [Acessar repositório](https://github.com/jcarlossc/info-sales-mysql-api)
 
-* Analista de Dados Pleno/Sênior
-* Analytics Engineer (em construção)
-* Engenheiro de Dados (em construção)
+### 2. Sales Analysis
 
+**Tecnologias:** Python · Pandas · Jupyter Notebook · Análise de Dados
 
-## 🧾 Certificados
+Projeto de análise de vendas para investigar métricas comerciais, lucratividade, descontos e desempenho das vendas, utilizando exploração e visualização de dados para identificar oportunidades de melhoria.
 
-Veja meus certificados organizados por pasta em:  
-📌 [`certificados`](https://github.com/jcarlossc/certificados)
+🔗 [Acessar repositório](https://github.com/jcarlossc/sales-analysis)
 
+### 4. Pipeline ETL com R
 
-## 🔎 Contatos
+**Tecnologias:** R · ETL · Qualidade de Dados
+
+Projeto voltado à ingestão, padronização, limpeza e validação de dados, estruturando etapas de processamento para tornar os dados mais consistentes e preparados para análise.
+
+🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+
+### 5. Pipeline ETL com Python
+
+**Tecnologias:** Python · ETL · Automação
+
+Pipeline desenvolvido para automatizar processos de ingestão, padronização, limpeza, validação e registro de dados, aplicando boas práticas de organização e desenvolvimento.
+
+🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+
+### 6. API do IBGE com Python
+
+**Tecnologias:** Python · APIs REST · ETL · MySQL
+
+Projeto de integração com a API do IBGE para coletar indicadores, processar dados estatísticos e armazenar informações em uma estrutura analítica para consultas e análises.
+
+🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+
+### 7. MySQL, R Markdown e Shiny
+
+**Tecnologias:** R · MySQL · R Markdown · Shiny
+
+Pipeline de consulta a banco de dados, exploração de informações, geração de relatórios reproduzíveis e construção de dashboards interativos para comunicar resultados analíticos.
+
+🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+
+### 8. Análise de Acidentes de Trânsito — Recife, 2019
+
+**Tecnologias:** QlikView · Business Intelligence · Visualização de Dados
+
+Dashboard desenvolvido para explorar informações sobre acidentes de trânsito na cidade do Recife em 2019, permitindo visualizar indicadores e apoiar a interpretação dos dados.
+
+🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+
+**Veja todos os projetos:** [GitHub — jcarlossc](https://github.com/jcarlossc?tab=repositories)
+
+> Os links individuais devem apontar para os repositórios correspondentes. Nos projetos sem URL confirmada, substitua o link geral pelo endereço específico quando disponível.
+
+---
+
+## 📊 Como transformo dados em valor
+
+**01. Ingestão** — coleta de dados de arquivos, APIs e bancos de dados.
+
+**02. Preparação** — limpeza, padronização, transformação e validação.
+
+**03. Análise** — exploração dos dados, avaliação estatística e construção de indicadores.
+
+**04. Comunicação** — relatórios, visualizações, dashboards e storytelling.
+
+**05. Decisão** — geração de informações que apoiem o planejamento e a melhoria dos resultados.
+
+Meu objetivo é desenvolver soluções que tornem os dados mais acessíveis, confiáveis e úteis para o negócio.
+
+## 📚 Certificados e aprendizado contínuo
+
+Organizo meus certificados e materiais de formação no repositório correspondente.
+
+🔗 [Consultar meus certificados](https://github.com/jcarlossc/certificados)    
+
+Continuo evoluindo em análise de dados, estatística, engenharia de dados, automação e desenvolvimento de soluções com Python e R.
+
+## 🎯 Objetivos profissionais
+
+- Atuar em projetos de Análise de Dados e Business Intelligence.
+- Desenvolver soluções de Ciência de Dados aplicadas a problemas reais.
+- Evoluir em Engenharia de Dados e Analytics Engineering.
+- Construir pipelines automatizados, APIs e ferramentas reutilizáveis.
+- Aplicar boas práticas de desenvolvimento, testes, documentação e integração contínua.
+- Colaborar em projetos que conectem tecnologia, dados e estratégia de negócio.
+
+## 🤝 Serviços e colaboração
+
+Estou aberto a oportunidades profissionais, projetos freelance e parcerias nas áreas de:
+
+- Análise de Dados e indicadores de negócio.
+- Ciência de Dados e análise estatística.
+- Engenharia de Dados e pipelines ETL/ELT.
+- Integração de APIs e bancos de dados.
+- Automação de processos com Python e R.
+- Dashboards, relatórios e Business Intelligence.
+- Treinamento e suporte técnico em soluções de dados.
+
+**DataQuantum — soluções em dados, tecnologia e inteligência de negócios.**
+
+## 📬 Contato
 
 * Recife, PE - Brasil<br>
 * Telefone: +55 81 99712 9140<br>
@@ -160,10 +238,10 @@ Veja meus certificados organizados por pasta em:
 * Kaggle: https://www.kaggle.com/jcarlossc/  
 * Twitter/X: https://x.com/jcarlossc1977
 
+---
 
-## 📌 Objetivo
+*Dados bem preparados, análises consistentes e tecnologia aplicada para gerar valor.*
 
-Atuar como **desenvolvedor Python e ou R** aplicando boas práticas, automações, e soluções robustas — com visão de melhoria contínua e aprendizado constante.
 
 
 
