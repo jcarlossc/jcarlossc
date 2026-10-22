@@ -124,53 +124,61 @@ Info Sales MySQL API é uma API desenvolvida em Python utilizando FastAPI, respo
 
 🔗 [Acessar repositório](https://github.com/jcarlossc/info-sales-mysql-api)
 
-### 2. Sales Analysis
+### 3. Pipeline ETL - IBGE
 
-**Tecnologias:** Python · Pandas · Jupyter Notebook · Análise de Dados
+**Tecnologias:** Python · API|IBGE · ETL · MySQL
 
-Projeto de análise de vendas para investigar métricas comerciais, lucratividade, descontos e desempenho das vendas, utilizando exploração e visualização de dados para identificar oportunidades de melhoria.
+Pipeline ETL desenvolvido em Python para coleta, transformação, modelagem e carga de dados públicos do IBGE em um banco de dados dimensional utilizando Star Schema.
 
-🔗 [Acessar repositório](https://github.com/jcarlossc/sales-analysis)
+🔗 [Acessar repositório](https://github.com/jcarlossc/etl-python-ibge)
 
-### 4. Pipeline ETL com R
+### 4. Pipeline Analítico de Vendas em R
 
-**Tecnologias:** R · ETL · Qualidade de Dados
+**Tecnologias:** R · ETL · Qualidade de Dados · Report
 
-Projeto voltado à ingestão, padronização, limpeza e validação de dados, estruturando etapas de processamento para tornar os dados mais consistentes e preparados para análise.
+Sistema completo de ETL, métricas, observabilidade e geração de relatórios e dashboard analíticos utilizando arquitetura profissional de package em R.
 
-🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+🔗 [Acessar repositório](https://github.com/jcarlossc/salespipeline)
 
-### 5. Pipeline ETL com Python
+### 5. Análise de Vendas
 
-**Tecnologias:** Python · ETL · Automação
+**Tecnologias:** Python · Pandas · BI
 
-Pipeline desenvolvido para automatizar processos de ingestão, padronização, limpeza, validação e registro de dados, aplicando boas práticas de organização e desenvolvimento.
+Análise de vendas (EDA) com indicadores, tendências, segmentação e visualizações para suporte à decisão.
 
-🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+🔗 [Acessar repositório](https://www.kaggle.com/code/jcarlossc/eda-vendas)
 
-### 6. API do IBGE com Python
+🔗 [Ver projeto em html](https://jcarlossc.github.io/site/assets/projects/eda-vendas.html)
 
-**Tecnologias:** Python · APIs REST · ETL · MySQL
+### 6. Análise de Vendas vs Descontos
 
-Projeto de integração com a API do IBGE para coletar indicadores, processar dados estatísticos e armazenar informações em uma estrutura analítica para consultas e análises.
+**Tecnologias:** Python · Kaggle · Numpy · MatPlotLib
 
-🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+Análisa se a política comercial de descontos está efetivamente gerando valor econômico para a operação.
 
-### 7. MySQL, R Markdown e Shiny
+🔗 [Acessar repositório](https://www.kaggle.com/code/jcarlossc/vendas-vs-descontos)
 
-**Tecnologias:** R · MySQL · R Markdown · Shiny
+🔗 [Ver projeto em html](https://jcarlossc.github.io/site/assets/projects/vendas-vs-descontos.html)
 
-Pipeline de consulta a banco de dados, exploração de informações, geração de relatórios reproduzíveis e construção de dashboards interativos para comunicar resultados analíticos.
+### 7. Modelo Preditivo IBGE
 
-🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+**Tecnologias:** Python · IBGE · R Markdown · Shiny
 
-### 8. Análise de Acidentes de Trânsito — Recife, 2019
+Análise preditiva da população brasileira utilizando dados do Instituto Brasileiro de Geografia e Estatística (IBGE).
 
-**Tecnologias:** QlikView · Business Intelligence · Visualização de Dados
+🔗 [Acessar repositório](https://www.kaggle.com/code/jcarlossc/regression-of-the-brazilian-population)
 
-Dashboard desenvolvido para explorar informações sobre acidentes de trânsito na cidade do Recife em 2019, permitindo visualizar indicadores e apoiar a interpretação dos dados.
+🔗 [Ver projeto em html](https://jcarlossc.github.io/site/assets/projects/regression-of-the-brazilian-population.html)
 
-🔗 [Explorar meus repositórios](https://github.com/jcarlossc?tab=repositories)
+### 8. Classificação de Vendas
+
+**Tecnologias:** Python · MatPlotLib · Classification · ML
+
+Modelo de aprendizado de máquina supervisionado para classificar transações de vendas de acordo com sua rentabilidade.
+
+🔗 [Acessar repositório](https://www.kaggle.com/code/jcarlossc/https://www.kaggle.com/code/jcarlossc/sales-profitability-classification)
+
+🔗 [Ver projeto em html](https://jcarlossc.github.io/site/assets/projects/sales-profitability-classification.html)
 
 **Veja todos os projetos:** [GitHub — jcarlossc](https://github.com/jcarlossc?tab=repositories)
 
